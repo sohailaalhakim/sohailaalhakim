@@ -14,7 +14,7 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: ["C++", "Javascript", "HTML", "CSS", "C#"],
+  code: ["C","C++", "Javascript", "HTML", "CSS", "Bootstrap"],
   tools: ["VsCode", "visualstudio", "brackets", "codeblocks"],
   architecture: ["design system pattern [MVC]"],
   techCommunities: {
