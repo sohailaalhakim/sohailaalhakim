@@ -1,5 +1,7 @@
 <h2> Hi, I'm Sohaila! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sohailaalhakim)
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Professional Web Developlment & BI Traniee at <a href="https://www.linkedin.com/school/information-technology-institute-iti-/">Information Technology Institute (ITI)</a>   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
@@ -7,7 +9,6 @@
 [![Twitter: Sohaila](https://img.shields.io/twitter/follow/Sohailaalhakim?style=social)](https://twitter.com/Sohailaalhakim)
 [![Linkedin: Sohaila](https://img.shields.io/badge/-sohailaalhakim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohailaalhakim/)](https://www.linkedin.com/in/sohaila-elhakim-6a6735203/)
 [![GitHub Sohaila](https://img.shields.io/github/followers/sohailaalhakim?label=follow&style=social)](https://github.com/sohailaalhakim)
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=sohailaalhakim.visitor-badge&left_color=grey&right_color=blue)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  A little more about me...  
 
