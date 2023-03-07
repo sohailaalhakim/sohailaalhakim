@@ -7,7 +7,7 @@
 [![Twitter: Sohaila](https://img.shields.io/twitter/follow/Sohailaalhakim?style=social)](https://twitter.com/Sohailaalhakim)
 [![Linkedin: Sohaila](https://img.shields.io/badge/-sohailaalhakim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohailaalhakim/)](https://www.linkedin.com/in/sohaila-elhakim-6a6735203/)
 [![GitHub Sohaila](https://img.shields.io/github/followers/sohailaalhakim?label=follow&style=social)](https://github.com/sohailaalhakim)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sohailaalhakim.visitor-badge&left_color=green&right_color=red)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=sohailaalhakim.visitor-badge&left_color=grey&right_color=red)
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  A little more about me...  
 
